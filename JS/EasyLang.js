@@ -1,4 +1,4 @@
-import json from "PATH_NAME" assert { type: "json" };
+import json from "../JSON/site_text.JSON" assert { type: "json" };
 export class EasyLang {
   //Constructor
   constructor() {
