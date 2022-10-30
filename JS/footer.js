@@ -35,6 +35,8 @@ f.innerHTML = `<div class="footer-section-newsletter">
 <input type="email" name="Email" placeholder="Your email">
 <textarea name="Message" id="contact-form-message" cols="30" rows="10"></textarea>
 </form>
+<button type="submit" id="form-submit-btn">Submit</button>
+
 <ul class="social-buttons">
 <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
 <li><a href="#"><i class="fa-brands fa-facebook"></i></a></li>

@@ -37,6 +37,7 @@ footer{
     background: black;
     color: white;
     margin-top: 10px;
+    cursor: pointer;
 
 }
 
@@ -49,6 +50,8 @@ footer{
     opacity: 0.3;
 }
 
+
+/* LOWER FOOTER SECTION */
 
 .footer-links {
         list-style: none;
@@ -70,6 +73,14 @@ footer{
 
 }
 
+#form-submit-btn{
+    padding: 10px 15px;
+    margin-top: 8px;
+    background-color: gainsboro;
+    color: black;
+    cursor: pointer;
+}
+
 .social-buttons{
     display: flex;
     justify-content: flex-start;
@@ -78,5 +89,5 @@ footer{
 .social-buttons li a{ 
     color: white;
     padding: 0 0.3rem;
-    font-size: x-large;
+    font-size: 100px;
 }
