@@ -14,7 +14,17 @@ f.innerHTML = `<div class="footer-section-newsletter">
 <div class="footer-section-about">
 <h1>About</h1>
 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus laborum beatae necessitatibus dolores architecto quae quasi quidem, ab dolor optio. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem ipsa quasi velit molestiae, dicta obcaecati quos! Enim at, veniam eum nesciunt dolores, itaque fugit ratione harum nihil veritatis optio quidem!</p>
+<br>
+
+<ul class="social-buttons">
+<li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
+<li><a href="#"><i class="fa-brands fa-facebook"></i></a></li>
+<li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+<li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+<li><a href="#"><i class="fa-brands fa-discord"></i></a></li>
+</ul>
 </div>
+
 
 <div class="footer-section-links">
 <h1>LINKS</h1>
@@ -37,13 +47,6 @@ f.innerHTML = `<div class="footer-section-newsletter">
 </form>
 <button type="submit" id="form-submit-btn">Submit</button>
 
-<ul class="social-buttons">
-<li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
-<li><a href="#"><i class="fa-brands fa-facebook"></i></a></li>
-<li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-<li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
-<li><a href="#"><i class="fa-brands fa-discord"></i></a></li>
-</ul>
 </div>
 </div>`
 
