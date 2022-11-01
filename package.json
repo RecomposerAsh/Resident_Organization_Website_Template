@@ -1,0 +1,28 @@
+{
+  "name": "resident_organization_website_template",
+  "version": "1.0.0",
+  "description": "A website that serves as both a resource for residents looking to organize as well as a template for new resident organization websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RecomposerAsh/Resident_Organization_Website_Template.git"
+  },
+  "keywords": [
+    "Resident",
+    "Tenant",
+    "Open-Source",
+    "Organizing"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RecomposerAsh/Resident_Organization_Website_Template/issues"
+  },
+  "homepage": "https://github.com/RecomposerAsh/Resident_Organization_Website_Template#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
