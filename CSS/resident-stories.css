@@ -1,4 +1,7 @@
 *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -14,30 +17,31 @@ body{
 }
 
 #data{
+        width: 85%;
+        margin: 50px auto;
         display: grid;
-        grid-template-columns: repeat(4, 25%);
-        gap: 1rem;
+        grid-template-rows: repeat(auto-fill, minmax(200px, 1fr));
+        gap: 5rem;
 }
 
 .item-box{
     border: 1pt solid white;
     box-sizing: border-box;
+    background: white;
 }
 
-.title{
+.story-title{
     font-size: 25px;
-    color: white;
-    text-shadow: 2px 2px 5px red;
-
+    color: black;
 }
 
-.description{
-    color: white;
+.orientation{
+    color: black;
 }
 
-.price{
+.date{
     font-weight: 600;
-    color: white;
+    color: black;
 }
 
 .item-box :hover{
@@ -45,15 +49,3 @@ body{
     transition: .3s;
 }
 
-#button{
-    padding: 10px 20px;
-    border: 1pt solid black;
-    border-radius: 5%;
-    color: black;
-    background: red;
-    cursor: pointer;
-}
-
-#button:hover{
-    background-color: white;
-}
