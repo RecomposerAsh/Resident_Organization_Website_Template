@@ -6,6 +6,7 @@ app.set("view engine", "ejs");
 
 app.use(express.json());
 app.use(express.static("express")); // default URL for website
+app.use(express.static('public'));
 app.use("/", function (req, res) {
   res.render("home-page");
   //__dirname : It will resolve to your project folder.
