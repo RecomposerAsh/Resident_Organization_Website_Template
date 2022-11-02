@@ -1,20 +1,21 @@
-fetch("resident_stories.JSON")
+fetch("../JSON/resident_stories.JSON")
 .then((resp) =>{
     return resp.json()})
     .then((data) =>{
+        console.log(data)
         let temp = "";
 
-            for(let i=0; i < data.products.length; i++){
+            for(let i=0; i < data.resident_stories.length; i++){
                 // ITEM CONTAINER
                temp +=`<div class="item-box">`
 
             //    ITEM
                temp +=`<div class = "image">
-               <img src= ${data.products[i].thumbnail} alt="image" height=250 width=300>
+               <img src= ${data.resident_stories[i].story_image} alt="image" height=250 width=300>
                </div>`;
-               temp +=`<div class = "story-title" id="t${i}">${data.products[i].story-title}</div>`; 
-               temp +=`<div class = "date" id="p${1}">${data.products[i].date}</div>`; 
-               temp +=`<div class = "orientation" id="d${1}">${data.products[i].orientation}</div>`; 
+               temp +=`<div class = "story-title" id="t${i}">${data.resident_stories[i].story_title}</div>`; 
+               temp +=`<div class = "date" id="d${1}">${data.resident_stories[i].date}</div>`; 
+               temp +=`<div class = "orientation" id="o${1}">${data.resident_stories[i].orientation}</div>`; 
 
             }
             document.getElementById("data").innerHTML=temp;
@@ -23,6 +24,8 @@ fetch("resident_stories.JSON")
         .catch((err) => console.log("error", err))
 
             
-                const parent = document.querySelector("#data");
-                const div = parent.parentElement;
-                // console.log(div);
+                const container = document.getElementById("data");
+                console.log(container)
+
+                const div = container.parentElement;
+                console.log(div);
