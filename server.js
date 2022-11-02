@@ -8,7 +8,7 @@ app.use(express.json());
 app.use(express.static("public"));
 app.use(express.static("express")); // default URL for website
 app.use("/", function (req, res) {
-  res.render("about-page");
+  res.render("resident-story-page");
   //__dirname : It will resolve to your project folder.
 });
 
