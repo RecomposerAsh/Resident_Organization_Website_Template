@@ -11,6 +11,8 @@
       "landlord": "Hazelview Properties",
       "orientation": "Propose",
       "needs": "Physiological, Emotional, Connection",
+      "link-1": "http://parkdaleorganize.ca/2022/10/07/johnsen-spiegel-evict-parkdale-organizers/",
+      "link-2": "",
       "story-body": "The West Lodge Food Bank is run by and for tenants at 103-105 West Lodge Ave, in Parkdale, Toronto. "
     },
     {
@@ -18,12 +20,14 @@
       "resident-story-#": "000002",
       "story-image": "/img/12-lansdowne-parkdale-organize-01.jpg",
       "date": "2022-10-07",
-      "location": "Toronto",
+      "location": "Parkdale - Toronto, Ontario",
       "resident-organization": "Parkdale Organize",
       "resident-building": "12 Lansdowne",
       "landlord": "Johnsen and Spiegel",
       "orientation": "Oppose",
       "needs": "Physiological, Psychological, Environmental, Alignment, Connection",
+      "link-1": "http://parkdaleorganize.ca/2022/05/17/tenants-put-new-landlord-on-notice/",
+      "link-2": "",
       "story-body": "Organizers at 12 Lansdowne are being targeted for eviction in retaliation for their recent, successful campaign against renoviction. In January 2022, Johnsen and Spiegel issued N13 eviction notices for extensive renovations to our neighbours at 12 Lansdowne. In response, tenants waged a public campaign to stop the evictions and won: in April, Johnsen and Spiegel withdrew the N13 notices. At the same time, the landlords withdrew the N5 and N6 notices they had issued against tenants who hung banners from their balconies in protest of the evictions. However, in August, the landlords issued a new N5 against tenants in one particular unit at 12 Lansdowne. The N5 alleges that in October 2021 these tenants, who were central to the recent organizing against the renovictions, substantially interfered with the landlords. The tenants wrongdoing? Refusing to pay for the replacement of their unit door after it was broken in by the fire department when it responded to a suspected fire while the tenants were not at home. Johnsen and Spiegel have dug up an incident from a full year ago to manufacture an eviction case against Parkdale organizers. The landlords claim that this is now the second N5 notice to be issued to these particular tenants in the past six months, the first N5 being the one which was issued to them about the banner hung from their balcony in March. Despite having formally withdrawn the first N5, the landlords now claim that two N5 notices have been issued, legally enabling them to immediately file for eviction with the Landlord and Tenant Board. A date for the eviction hearing is likely to be set in 2023."
     },
     {
@@ -31,26 +35,30 @@
       "resident-story-#": "000003",
       "story-image": "/img/109-jameson-parkdale-organize-01.jpg",
       "date": "2022-05-17",
-      "location": "Toronto",
+      "location": "Parkdale - Toronto, Ontario",
       "resident-organization": "Parkdale Organize",
       "resident-building": "109 Jameson",
       "landlord": "Brairlane",
       "orientation": "Oppose",
       "needs": "Physiological, Emotional, Connection",
+      "link-1": "http://parkdaleorganize.ca/2022/05/17/tenants-put-new-landlord-on-notice/",
+      "link-2": "",
       "story-body": "Today our neighbours at 109 Jameson traveled to the Markham offices of property manager Briarlane to demand they improve conditions at their building. A Briarlane executive tried to undermine the group by insisting that he would only speak to one tenant in private. Our neighbours responded that he would have to meet with the whole group. After conceding to meeting with the group and accepting 50 demand letters from tenants living at the building. He then committed to addressing tenants’ issues immediately. Our neighbours intend to hold Briarlane to it. In March, the midrise building at 109 Jameson was sold to Shafik Kassam, a landlord who owns other buildings in Parkdale and is known to Parkdale tenants. Like at his other Parkdale buildings, Kassam hired Briarlane as the property manager. Since they took over conditions at the building have become significantly worse. Basic cleaning and maintenance of common areas has not been kept up and tenants’ requests for repairs in their units have been ignored. To oppose the neglect of the new landlord, the building committee at 109 Jameson has been holding meetings and reaching out to their neighbours door to door. Today’s action was the culmination of many hours of work by working-class people in Parkdale who have committed to collectively defending and improving the conditions of their homes and neighbourhood."
     },
     {
-      "story-title": "",
+      "story-title": "Hilleside Villa tenants expropriate building through eminent domanin",
       "resident-story-#": "000004",
       "story-image": "",
-      "date": "",
-      "location": "",
-      "resident-organization": "",
-      "resident-building": "",
-      "landlord": "",
-      "orientation": "",
+      "date": "2022-05-27",
+      "location": "Chinatown - Los Angeles, California",
+      "resident-organization": "Hillside Villa Tenants",
+      "resident-building": "Hillside Villa Apartments",
+      "landlord": "Tom Botz",
+      "orientation": "Propose",
       "needs": "",
-      "story-body": ""
+      "link-1": "https://knock-la.com/hillside-villa-tenants-win-eminent-domain/",
+      "link-2": "https://jacobin.com/2022/06/la-hillside-villa-tenants-eminent-domain-decommodify-housing",
+      "story-body": "After a years long struggle the organized tenants of Hillside Villa, an apartment building located in LA's Chinatown district successfully pressured the City of Los Angeles to expropriate their building from its current landlord using eminent domain to ensure that rent remained affordable for all tenants. The buildings now-former landlord, Tom Botz has been attempting to raise rent 300% from around $1000USD a month to $3000 a month after the 30 year affordability covenant signed with the city during the buildings construction was set to run out, which would have legally allowed Botz to raise unit prices to 'market rate'. Given the massive inflation of property values this would have meant bringing rents up to a level that would have displaced the overwhelming majority of the buildings long term residents. Thankfully through determined community organizing the tenants of Hillside Villa were able to pressure the city to exprorpiate the property from Botz under the banner of 'eminent domain'."
     },
     {
       "story-title": "",
@@ -63,6 +71,8 @@
       "landlord": "",
       "orientation": "",
       "needs": "",
+      "link-1": "",
+      "link-2": "",
       "story-body": ""
     },
     {
@@ -76,6 +86,8 @@
       "landlord": "",
       "orientation": "",
       "needs": "",
+      "link-1": "",
+      "link-2": "",
       "story-body": ""
     },
     {
@@ -89,6 +101,8 @@
       "landlord": "",
       "orientation": "",
       "needs": "",
+      "link-1": "",
+      "link-2": "",
       "story-body": ""
     },
     {
@@ -102,6 +116,8 @@
       "landlord": "",
       "orientation": "",
       "needs": "",
+      "link-1": "",
+      "link-2": "",
       "story-body": ""
     },
     {
@@ -115,6 +131,8 @@
       "landlord": "",
       "orientation": "",
       "needs": "",
+      "link-1": "",
+      "link-2": "",
       "story-body": ""
     }
   ]
